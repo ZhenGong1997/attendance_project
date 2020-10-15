@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Logo2">
+    <file>loginProfmate.png</file>
+  </qresource>
+</RCC>

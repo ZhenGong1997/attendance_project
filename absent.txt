@@ -1,0 +1,6 @@
+student A 1000
+student B 1001
+student C 1002
+student D 1003
+student E 1004
+student F 1005
