@@ -18,3 +18,11 @@ This is an example of the user interfaces. It includes:
 * a professor page to view list of attendance
   
 You can either run main.py or student.py on your compiler to start the program.
+
+Preview: Registration page
+
+![Registration page](../image/sample_student.png)
+
+
+Preview: Professor's Page
+![Professor's page](../image/sample_professor.png)
