@@ -13,6 +13,9 @@ The entire project includes :
 * Database (mysql)
 * User Interface (python)
 
+You may not be able to run the full project, however you can run the User Interface.
+
+
 This is an example of the user interfaces. It includes: 
 * a registration page for students to create personal profile
 * a professor page to view list of attendance
